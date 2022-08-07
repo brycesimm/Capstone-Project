@@ -27,4 +27,4 @@ There is a spreadsheet named "Accuracies.xlsx" and it stores the accuracies each
 yielded. It also contains conditional formatting to highlight positive/negative changes in accuracy
 over the baseline implementation, and highlights the most positive and most negative tests.
 
-Additionally you will find the PDF document of the technical paper (IEEE format) I submitted at the conclusion of the capstone course, and it sums up my objective, methods, and results in greater detail. 
+Additionally you will find the PDF document of the technical paper (IEEE format) and PowerPoint presentation I submitted at the conclusion of the capstone course, and they sum up my objective, methods, and results in greater detail. 
